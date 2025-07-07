@@ -136,6 +136,8 @@ Mall Customers dataset, containing features like customer age, annual income, an
 
 All the Datasets uploaded 
 
+** Attached all scripts of `Level 2` in `Level 2` folder
+
 ---
 
 
