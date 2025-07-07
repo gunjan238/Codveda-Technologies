@@ -62,15 +62,79 @@ This repository contains data analysis tasks using Python, pandas, matplotlib, a
 📂 Script: `Task3.ipynb`  
 📁 Outputs: `bar_plot.png`, `line_chart.png`, `scatter_plot.png`
 
+
+---
+## 🧹 Level 2 Data Analysis Tasks
+
+## ✅ Task 1 – Regression Analysis
+
+**Description:**  
+Performed simple linear regression to predict one variable based on another.
+
+**Objectives:**
+
+- Split the dataset into training and testing sets
+- Fit a linear regression model using scikit-learn
+- Interpret model coefficients
+- Evaluate model performance using metrics such as R-squared and Mean Squared Error (MSE)
+
+
+**Dataset:**  
+Boston Housing dataset, including attributes of houses in Boston suburbs and their median prices.
+
 ---
 
+## ✅ Task 2 – Time Series Analysis
+
+**Description:**  
+Analyzed time-series data (e.g. stock prices) to detect trends and seasonality.
+
+**Objectives:**
+
+- Import and explore financial time series data using Yahoo Finance
+- Visualize time series data to identify trends and patterns
+- Decompose the series into trend, seasonality, and residuals using statsmodels
+- Apply moving average smoothing to reveal long-term trends
+
+
+**Dataset:**  
+Daily closing stock prices for companies like Amazon (AMZN) sourced from Yahoo Finance.
+
+---
+
+## ✅ Task 3 – Clustering Analysis (K-Means)
+
+**Description:**  
+Implemented K-Means clustering to group similar data points based on feature similarities.
+
+**Objectives:**
+
+- Standardize the dataset using StandardScaler
+- Apply K-Means clustering
+- Determine the optimal number of clusters using the elbow method
+- Visualize clusters in 2D scatter plots
+- Analyze cluster centers to understand customer segments
+
+**Dataset:**  
+Mall Customers dataset, containing features like customer age, annual income, and spending score.
+
+
+
+---
 ## 🛠 Tools & Libraries
 
 - Python 3.8+
 - pandas
 - matplotlib
 - seaborn
+- scikit-learn
+- numpy
+- statsmodels
+- yfinance
 - Jupyter Notebook or any Python IDE
+
+
+All the Datasets uploaded 
 
 ---
 
