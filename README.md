@@ -118,6 +118,61 @@ Implemented K-Means clustering to group similar data points based on feature sim
 **Dataset:**  
 Mall Customers dataset, containing features like customer age, annual income, and spending score.
 
+---
+## 🧹 Level 3 Data Analysis Tasks
+
+## ✅ Task 1 – Predictive Modeling (Classification)
+
+ **Description**
+ Performed basic text analysis and sentiment analysis on textual data.
+ 
+ **Objectives**
+- Preprocss the data
+- Train and test multiple classification
+- Evaluate models using accuracy, precision, recall and F1-score
+- Perform hyperparameter tuning using grid search.
+
+
+**Dataset:**  
+UCI Credit Card data
+
+---
+
+## ✅ Task 2 – Building Dashboard using PowerBI
+
+**Description:**  
+Create dashboard to provide insights from the data.
+
+**Objectives:**
+
+- Import and clean the dataset in Power BI.
+- Create interactive visualizations (e.g., bar charts, line
+graphs, maps).
+- Set up filters and slicers for interactive exploration.
+- Publish the dashboard and share it with others.
+
+*<img width="768" height="431" alt="Airbnb Dashboard" src="https://github.com/user-attachments/assets/8fbd1394-f3d9-4e55-b1e7-938d0850729e" />
+
+**Dataset:** Airbnb NYC data
+
+---
+
+## ✅ Task 3 – Natural Language Processing(NLP) - Sentiment Analysis
+
+**Description:**  
+Perform sentiment analysis on textual data.
+
+**Objectives:**
+
+- Preprocess text data (tokenization, removing stopwords, and stemming/lemmatization).
+- Use nltk or TextBlob for sentiment analysis.
+- Visualize the sentiment distribution and word frequencies using word clouds.
+
+**Dataset:**  
+Tweets data
+
+---
+
 
 
 ---
@@ -132,7 +187,8 @@ Mall Customers dataset, containing features like customer age, annual income, an
 - statsmodels
 - yfinance
 - Jupyter Notebook or any Python IDE
-
+- nltk
+- textblob
 
 All the Datasets uploaded 
 
